@@ -1,4 +1,4 @@
-# superstore.com
+# superstore.com version 2
 
 ## Pràctica MF0492_3.A: Creació d’una Base de dades (UF1845).
 
